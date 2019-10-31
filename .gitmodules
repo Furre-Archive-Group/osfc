@@ -1,0 +1,9 @@
+[submodule "data/patches"]
+	path = data/patches
+	url = git@github.com:Furre-Archive-Group/furcadia-patches.git
+[submodule "data/skins"]
+	path = data/skins
+	url = git@github.com:Furre-Archive-Group/furcadia-skins.git
+[submodule "data/maps"]
+	path = data/maps
+	url = git@github.com:Furre-Archive-Group/furcadia-default-dreams.git
